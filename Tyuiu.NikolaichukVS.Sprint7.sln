@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikolaichukVS.Sprint7.Project.V14.Lib", "Tyuiu.NikolaichukVS.Sprint7.Project.V14.Lib\Tyuiu.NikolaichukVS.Sprint7.Project.V14.Lib.csproj", "{E0B51FEB-0927-43DE-8C89-569A938E5E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.NikolaichukVS.Sprint7.Project.V14.Test", "Tyuiu.NikolaichukVS.Sprint7.Project.V14.Test\Tyuiu.NikolaichukVS.Sprint7.Project.V14.Test.csproj", "{12B88189-D867-444A-A103-A6AD52C88BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B51FEB-0927-43DE-8C89-569A938E5E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B51FEB-0927-43DE-8C89-569A938E5E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B51FEB-0927-43DE-8C89-569A938E5E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B51FEB-0927-43DE-8C89-569A938E5E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B88189-D867-444A-A103-A6AD52C88BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B88189-D867-444A-A103-A6AD52C88BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B88189-D867-444A-A103-A6AD52C88BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B88189-D867-444A-A103-A6AD52C88BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E6722B-93A8-4AF3-861A-15EBE717299E}
+	EndGlobalSection
+EndGlobal
